@@ -3,7 +3,7 @@
 ## Currently
 - **Dev:** Working on a text-based sci-fi survival sim.
 - **Study:** Networking, Cybersecurity, and infrastructure.
-- **leisure:** Chasing bass and exploring new fishing spots.
+- **Leisure:** Chasing bass and exploring new fishing spots.
 
 ## Fun Facts
 - Pov drone enthusiast; I enjoy the technical side of flying as much as the view.
