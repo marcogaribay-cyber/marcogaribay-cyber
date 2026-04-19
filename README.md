@@ -12,6 +12,6 @@
 ### Player Stats
 |Category|Metric|Status|
 |:---|:---|:---|
-|**Grind Level**|43|[|||||||] 100%|
+|**Grind Level**|43|100%|
 |**Mundane Quests**|Plates Washed|~164,250|
 |**Inventory Loss**|Lures Donated to Lake|50+|
